@@ -11,4 +11,4 @@ Devices can be controlled without the central hub or app needing to understand t
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
 
 UML Class Diagram:
-![Image]()
+![Image](https://github.com/eunicemabasa/Mabasa_CommandPattern_LabAss2/blob/main/UML%20Diagram%20Command%20Pattern.png)
